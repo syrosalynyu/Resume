@@ -30,13 +30,13 @@
 * Actively engaged and collaborated with clients through all project phases by proposing and implementing enhancements based on feedback from clinents and Key Performance Indicator which yielded high satisfaction among the clients
 * Mentored and coached interns from multiple teams, and received positive feedback from supervisors that my mentorship helped interns meet and exceed the expectations
 
-**Customer Service Representative | Trismax Inc - Pleasanton, CA  `Feb 2015 - July 2015`
+**Customer Service Representative | Trismax Inc - Pleasanton, CA**  `Feb 2015 - July 2015`
    
 * Managed company website and promoted our service on WordPress and Facebook platform
 * Maintained over 2000 existing and new international individual customer accounts
 * Communicated with overseas customers and freight companies to resolve shipping complications
 
-**Office Administrator | Summit Tutoring Center - Pleasanton, CA  `Feb 2015 - July 2015`
+**Office Administrator | Summit Tutoring Center - Pleasanton, CA**  `Feb 2015 - July 2015`
 
 * Managed company phone calls, visitor greetings, and general inquiries
 * Promoted multiple classes by providing information to new and existing customers
