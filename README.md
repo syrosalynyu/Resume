@@ -1,41 +1,46 @@
 # Szu-Yin (Ross) Yu
-###### [syrosalynyu@gmail.com](mailto:syrosalynyu@gmail.com) • [Linkedin](https://www.linkedin.com/in/syrosalynyu/)   • Seattle, WA 98122
+###### [syrosalynyu@gmail.com](mailto:syrosalynyu@gmail.com) • [Linkedin](https://www.linkedin.com/in/syrosalynyu/)   • [Portfolio](https://syrosalynyu.github.io/)   •Seattle, WA 98122
+
+## Education
+
+**Ada Developer Academy** | Seattle, WA  `2020 - Present`
+ 
+ 
+**University of Central Missouri** | Warrensburg, MO  `2013 - 2015`
+<br>Master of Science in Aviation Safety Management
+
+**Feng Chia University** | Taichung, Taiwan `2008 - 2012` 
+<br>Bachelor of Management Science in Transportation and Management 
+
+## Skills
+
+**Programming:** Ruby, Javascript, React, HTML & CSS, Web APIs   
+**Business tools:** Asana PM tool, Mantis Bug Tracker, Microsoft Office, Slack, Hootsuite, InVision  
+**Languages:** Mandarin, Cantonese, and Taiwanese
 
 ## Work Experience
 
 #### Project Coordinator | Trismax Inc - Pleasanton, CA (July 2015 to present)
 
-* Develop good relationships with Top 5 Fortune customer, serve as the point of contact to solve any inquiries including technical backstopping of the Learning Management product
-* Collaborate with cross-functional teams, successfully deliver a complex software code-base rewritten project along with server upgrade in 1.5 year
-* Manage five projects simultaneously and demonstrate great management skills in resource allocation, task prioritization, scope identification, and workflow design 
-* Create and maintain user documents for company products by using Markdown to increase the flexibility of content management
-* Monitor Selenium automation testing results to help developer further debugging, and execute white box manual testing for non-automatable scenarios in SIT environment
-* Actively engage and collaborate with clients through all phases by proposing and implementing enhancements based on the client's feedback and Key Performance Indicator which yields high satisfaction among the clients
-* Mentor and coach interns from multi-teams, which I constantly receive positive feedback from their supervisors about how my mentorship has helped them meet and exceed the expectations
+* Developed and maintained good relationships with Top 5 Fortune customers, and served as the point of contact to solve any inquiries including technical backstopping for the Learning Management product
+* Collaborated with a cross-functional team and successfully delivered a codebase rewritten project along with server upgrades in 1.5 year
+* Managed five projects simultaneously and demonstrated great management skills in resource allocation, task prioritization, scope identification, and workflow design 
+* Created user documents using Hugo framework for company products to increase the flexibility of content management
+* Monitored Selenium automation testing results to help developer further debugging, and also executed white box manual testing for non-automatable scenarios in SIT environment
+* Actively engaged and collaborated with clients through all project phases by proposing and implementing enhancements based on feedback from clinents and Key Performance Indicator which yielded high satisfaction among the clients
+* Mentored and coached interns from multiple teams, and received positive feedback from supervisors that my mentorship helped interns meet and exceed the expectations
 
 #### Customer Service Representative | Trismax Inc - Pleasanton, CA (Feb 2015 to July 2015)
    
 * Managed company website and promoted our service on WordPress and Facebook platform
-* Communicated with overseas customers and freight companies to resolve shipping complications
 * Maintained over 2000 existing and new international individual customer accounts
+* Communicated with overseas customers and freight companies to resolve shipping complications
 
 #### Office Administrator | Summit Tutoring Center - Pleasanton, CA (Feb 2015 to July 2015)
 
 * Managed company phone calls, visitor greetings, and general inquiries
 * Promoted multiple classes by providing information to new and existing customers
 * Coordinated and arranged class schedules with teachers and students
-
-## Skills
-
-**Programming:** HTML, CSS, Markdown, command-line, git   
-**Programming tools:** VScode, IntelliJ, WordPress, Bitbucket, Github  
-**Business tools:** Asana PM tool, Mantis Bug Tracker, Microsoft Office, Slack, Hootsuite, InVision  
-**Languages:** Mandarin, Cantonese, and Taiwanese
-
-## Education
-
-* **Master of Science in Aviation Safety Management**, 2015  University of Central Missouri
-* Bachelor of Management Science in Transportation and Management, 2012  Feng Chia University, Taiwan 
 
 ## Volunteer Experience
 
