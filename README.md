@@ -25,7 +25,7 @@
 * Developed and maintained good relationships with Top 5 Fortune customers, and served as the point of contact to solve any inquiries including technical backstopping for the Learning Management product
 * Collaborated with a cross-functional team and successfully delivered a codebase rewritten project along with server upgrades in 1.5 year
 * Managed five projects simultaneously and demonstrated great management skills in resource allocation, task prioritization, scope identification, and workflow design 
-* Created user documents using Hugo framework for company products to increase the flexibility of content management
+* Used Hugo framework to create user documents for company products to increase the flexibility of content management
 * Monitored Selenium automation testing results to help developer further debugging, and also executed white box manual testing for non-automatable scenarios in SIT environment
 * Actively engaged and collaborated with clients through all project phases by proposing and implementing enhancements based on feedback from clinents and Key Performance Indicator which yielded high satisfaction among the clients
 * Mentored and coached interns from multiple teams, and received positive feedback from supervisors that my mentorship helped interns meet and exceed the expectations
