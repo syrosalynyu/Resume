@@ -1,5 +1,5 @@
 # Szu-Yin (Ross) Yu
-###### [syrosalynyu@gmail.com](mailto:syrosalynyu@gmail.com) • [Linkedin](https://www.linkedin.com/in/syrosalynyu/)   • [Portfolio](https://syrosalynyu.github.io/)   •Seattle, WA 98122
+###### [syrosalynyu@gmail.com](mailto:syrosalynyu@gmail.com) • [Linkedin](https://www.linkedin.com/in/syrosalynyu/)   • [Portfolio](https://syrosalynyu.github.io/)   • Seattle, WA 98122
 
 ## Education
 
