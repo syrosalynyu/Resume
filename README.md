@@ -20,7 +20,7 @@
 
 ## Work Experience
 
-#### Project Coordinator | Trismax Inc - Pleasanton, CA `July 2015 - Jan 2020`
+**Project Coordinator | Trismax Inc - Pleasanton, CA**  `July 2015 - Jan 2020`
 
 * Developed and maintained good relationships with Top 5 Fortune customers, and served as the point of contact to solve any inquiries including technical backstopping for the Learning Management product
 * Collaborated with a cross-functional team and successfully delivered a codebase rewritten project along with server upgrades in 1.5 year
@@ -30,13 +30,13 @@
 * Actively engaged and collaborated with clients through all project phases by proposing and implementing enhancements based on feedback from clinents and Key Performance Indicator which yielded high satisfaction among the clients
 * Mentored and coached interns from multiple teams, and received positive feedback from supervisors that my mentorship helped interns meet and exceed the expectations
 
-#### Customer Service Representative | Trismax Inc - Pleasanton, CA `Feb 2015 - July 2015`
+**Customer Service Representative | Trismax Inc - Pleasanton, CA  `Feb 2015 - July 2015`
    
 * Managed company website and promoted our service on WordPress and Facebook platform
 * Maintained over 2000 existing and new international individual customer accounts
 * Communicated with overseas customers and freight companies to resolve shipping complications
 
-#### Office Administrator | Summit Tutoring Center - Pleasanton, CA `Feb 2015 - July 2015`
+**Office Administrator | Summit Tutoring Center - Pleasanton, CA  `Feb 2015 - July 2015`
 
 * Managed company phone calls, visitor greetings, and general inquiries
 * Promoted multiple classes by providing information to new and existing customers
