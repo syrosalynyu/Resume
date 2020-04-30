@@ -7,10 +7,10 @@
  
  
 **University of Central Missouri** | Warrensburg, MO  `2013 - 2015`
-<br>Master of Science in Aviation Safety Management
+<br>Master of Science in Aviation Safety Management (GPA: 3.90/4.00)
 
 **Feng Chia University** | Taichung, Taiwan `2008 - 2012` 
-<br>Bachelor of Management Science in Transportation and Management 
+<br>Bachelor of Management Science in Transportation and Management (GPA: 3.70/4.00)
 
 ## Skills
 
